@@ -1,0 +1,1 @@
+I'm an experienced engineer who has a thing for Clean Code. I've worked with a lot of different tech stacks, but feel most at home on the JVM. I primarily work for organisations that Make The World A Better Place™. I hope you like my small contributions to the open-source community that I make in my spare time.
